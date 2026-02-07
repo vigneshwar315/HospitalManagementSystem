@@ -783,8 +783,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-**Made with ❤️ by Vigneshwar**
-
 ⭐ If this project helped you, please consider giving it a star on GitHub!
 
 ---
